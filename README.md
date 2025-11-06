@@ -1,5 +1,5 @@
 ```markdown
-# DigitVision: MNIST Handwritten Digit Recognition using TensorFlow
+# Hand-Written-Digit-Recognition: MNIST Handwritten Digit Recognition using TensorFlow
 
 This project demonstrates how to train a deep learning model using **TensorFlow** and **Keras** to recognize handwritten digits from the **MNIST dataset**.  
 It walks through data loading, preprocessing, model building, training, evaluation, and visualization — making it a great introduction to neural networks and computer vision.
@@ -19,7 +19,6 @@ It walks through data loading, preprocessing, model building, training, evaluati
 ## 🗂️ Project Structure
 
 ```
-DigitVision/
 ├── Handwritten Digit.ipynb          # Main Jupyter notebook
 ├── mnist_model.h5     # Saved trained model (after running)
 ├── README.md          # Project documentation
