@@ -1,4 +1,4 @@
-```markdown
+
 # Hand-Written-Digit-Recognition: MNIST Handwritten Digit Recognition using TensorFlow
 
 This project demonstrates how to train a deep learning model using **TensorFlow** and **Keras** to recognize handwritten digits from the **MNIST dataset**.  
